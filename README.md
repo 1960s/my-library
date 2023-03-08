@@ -1,2 +1,2 @@
-# resources
-* MDN [https://developer.mozilla.org/en-US/docs/]
+# Library
+* [MDN](https://developer.mozilla.org/en-US/docs/)
